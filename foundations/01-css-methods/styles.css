@@ -9,12 +9,3 @@ div,
 p {
   color: white;
 }
-
-button,
-p {
-  font-size: 18px;
-}
-
-button {
-  background-color: orange;
-}
